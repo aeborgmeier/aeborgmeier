@@ -1,6 +1,6 @@
 ## Hi! Welcome! I'm Abigail _(she/her)_
 
-## I study soil-dwelling, free-living nematode ecology and evolution. I work in the McMurdo Dry Valleys in Antarctica, Sevilleta desert in New Mexico, and various grassland ecosystems in the United States. 
+## I study soil-dwelling, free-living nematode ecology and evolution. I work in the McMurdo Dry Valleys in Antarctica, the Sevilleta desert in New Mexico, and various grassland ecosystems in the United States. 
 ## I'm currently a PhD Candidate at Brigham Young University, advised by Dr. Byron Adams. 
 
 <!--
